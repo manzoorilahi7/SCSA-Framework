@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>
+		<TC04_LoginDataDriven>
+			<url>https://www.saucedemo.com</url>
+			<user>standard_user</user>
+			<password>secret_sauce</password>
+		</TC04_LoginDataDriven>
+		<TC04_LoginDataDriven>
+			<url>https://www.saucedemo.com</url>
+			<user>standard_user3454</user>
+			<password>secret_sa</password>
+		</TC04_LoginDataDriven>
+	</Execution>
+</Automation>
